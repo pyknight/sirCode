@@ -3,3 +3,7 @@
 *.tar*
 *.pyc
 env/
+crawl/
+db/
+source/
+refs/
